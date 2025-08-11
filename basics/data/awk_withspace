@@ -1,0 +1,113 @@
+I've removed all commas from the data and replaced them with spaces, as you requested. This changed the format from a comma-separated to a space-separated file.
+
+ space_sepa...alary_data 
+TXT
+
+ space_sepa...alary_data 
+TXT
+
+The new file is saved as space_separated_salary_data.txt.
+
+Here is the data with commas replaced by spaces:
+
+id first_name last_name email gender salary
+1 Isadora Billo ibillo0@answers.com Female 65799.01
+2 Noll Rothera nrothera1@wiley.com Male 13704.67
+3 Ervin Keefe ekeefe2@epa.gov Genderqueer 29313.91
+4 Packston Connors pconnors3@foxnews.com Male 32314.58
+5 Wayne Fedorchenko wfedorchenko4@studiopress.com Male 12721.04
+6 Anne Bucktrout abucktrout5@goo.ne.jp Female 63992.31
+7 Thaine Rider trider6@upenn.edu Male 21560.71
+8 Julian Chasles jchasles7@devhub.com Genderfluid 98266.23
+9 Thane Lister tlister8@plala.or.jp Male 81041.33
+10 Lucia Ascroft lascroft9@cocolog-nifty.com Female 78310.61
+11 Titus Lints tlintsa@seesaa.net Male 81006.62
+12 Sandy Steckings ssteckingsb@wikimedia.org Male 74526.58
+13 Jefferson Southcott jsouthcottc@g.co Male 85691.35
+14 Edvard Firebrace efirebraced@arizona.edu Male 34195.18
+15 Zaccaria Edinburough zedinburoughe@rediff.com Male 57487.08
+16 Jorry Davidai jdavidaif@rakuten.co.jp Female 41839.89
+17 Electra Okie eokieg@acquirethisname.com Female 95779.8
+18 Matty Mothersdale mmothersdaleh@independent.co.uk Male 75496.68
+19 Richmond Morrieson rmorriesoni@unesco.org Male 25353.76
+20 Tymothy Guerrero tguerreroj@t.co Male 24988.22
+21 Foss Ratlee fratleek@meetup.com Male 93099.88
+22 Berthe Dowtry bdowtryl@paginegialle.it Female 84050.25
+23 Alphonse Eversley aeversleym@biblegateway.com Male 55579.77
+24 Harry Fargher hfarghern@indiegogo.com Male 44688.41
+25 Carmina Egdal cegdalo@ask.com Non-binary 11966.17
+26 Binni Tarney btarneyp@arizona.edu Female 88633.56
+27 Tab Morbey tmorbeyq@infoseek.co.jp Male 12140.43
+28 Ruthann Simonassi rsimonassir@dedecms.com Female 19934.55
+29 Rosa Vasiltsov rvasiltsovs@earthlink.net Female 71400.23
+30 Casey Surfleet csurfleett@prnewswire.com Male 39534.53
+31 Ainslee Ruilton aruiltonu@virginia.edu Female 83158.42
+32 Adi Frostdicke afrostdickev@vinaora.com Female 39574.7
+33 Scarlet Kennard skennardw@canalblog.com Female 15219.48
+34 Mendie Clarey mclareyx@huffingtonpost.com Male 63627.08
+35 Goddard Beaby gbeabyy@newsvine.com Male 18249.88
+36 Kris Ludovici kludoviciz@dropbox.com Female 92595.53
+37 Darby Adrian dadrian10@mtv.com Bigender 21223.75
+38 Warde Shortland wshortland11@vimeo.com Male 46758.3
+39 Paige Pettko ppettko12@yelp.com Female 25843.94
+40 Lucius Radbone lradbone13@nytimes.com Non-binary 60882.57
+41 Darnell Handasyde dhandasyde14@4shared.com Male 88718.1
+42 Selina Fitzjohn sfitzjohn15@va.gov Female 25924.87
+43 Rosaleen McLurg rmclurg16@apple.com Non-binary 30084.88
+44 Zack De Metz zdemetz17@google.cn Male 5238.71
+45 Ardyce Spenclay aspenclay18@accuweather.com Polygender 43826.04
+46 Nial Scimonelli nscimonelli19@amazon.co.uk Male 37290.53
+47 Avie Adamson aadamson1a@wp.com Female 86886.24
+48 Brent Ismirnioglou bismirnioglou1b@so-net.ne.jp Male 82750.55
+49 Drusilla Pithcock dpithcock1c@wikipedia.org Bigender 18054.61
+50 Elissa Dillingston edillingston1d@nih.gov Female 25060.33
+51 Tootsie Missenden tmissenden1e@networkadvertising.org Female 31096.61
+52 Gilberta Plumbridge gplumbridge1f@de.vu Female 60562.66
+53 Merry Engley mengley1g@slideshare.net Bigender 64558.45
+54 Saree Goreisr sgoreisr1h@ifeng.com Female 48221.48
+55 Veronika Scotter vscotter1i@cdc.gov Female 89357.75
+56 Nanci Loche nloche1j@trellian.com Female 78631.59
+57 Estrella Grinnikov egrinnikov1k@creativecommons.org Agender 26982.78
+58 Myrtie Kiernan mkiernan1l@spotify.com Female 49603.33
+59 Afton Yewdale ayewdale1m@smugmug.com Female 63164.76
+60 Sena Sprakes ssprakes1n@skype.com Female 62706.6
+61 Allis O'Hoey aohoey1o@macromedia.com Female 73361.46
+62 Howard Dawbury hdawbury1p@people.com.cn Male 54115.23
+63 Camilla Doudny cdoudny1q@amazon.com Female 46289.98
+64 Boothe Nice bnice1r@ted.com Male 89806.52
+65 Tonye Aizik taizik1s@biblegateway.com Female 93253.57
+66 Kimberli Dallyn kdallyn1t@tmall.com Female 26830.31
+67 Rhiamon Isbell risbell1u@ihg.com Female 39964.78
+68 Marna Bourdice mbourdice1v@diigo.com Female 1682.01
+69 Lilah Lukes llukes1w@blogs.com Female 21177.13
+70 Randi Tejada rtejada1x@123-reg.co.uk Female 10239.56
+71 Alexandrina Alti aalti1y@ask.com Female 92343.9
+72 Davita Kmietsch dkmietsch1z@bizjournals.com Female 9941.69
+73 Cash Callear ccallear20@sitemeter.com Male 30323.59
+74 Von Scotcher vscotcher21@infoseek.co.jp Male 82075.78
+75 George Matches gmatches22@parallels.com Male 91020.15
+76 Arlene Eggleton aeggleton23@icq.com Female 39778.25
+77 Griff Akerman gakerman24@ask.com Male 88300.21
+78 Lilyan Saddler lsaddler25@nationalgeographic.com Female 19716.61
+79 Maud McGuire mmcguire26@europa.eu Genderqueer 83898.61
+80 Denise Pechan dpechan27@liveinternet.ru Female 15187.99
+81 Boothe Olivo bolivo28@meetup.com Male 86782.49
+82 Faye Brogden fbrogden29@angelfire.com Agender 6974.52
+83 Ainsley Probetts aprobetts2a@dailymotion.com Genderfluid 33929.13
+84 Ly Mabley lmabley2b@accuweather.com Male 64058.32
+85 Claudette Sissens csissens2c@rakuten.co.jp Agender 65254.46
+86 Chrissie Camps ccamps2d@fc2.com Female 95899.89
+87 Friederike Stannas fstannas2e@yale.edu Female 90654.1
+88 Cordi Taunton. ctaunton2f@japanpost.jp Female 86773.4
+89 Chrysler Poter cpoter2g@mayoclinic.com Female 25403.55
+90 Uri Pole upole2h@spiegel.de Male 85931.74
+91 Robers Luscott rluscott2i@exblog.jp Male 93552.0
+92 Tobie Haylor thaylor2j@photobucket.com Male 97593.12
+93 Carline Sapp csapp2k@sfgate.com Female 38369.65
+94 Dasha Tomaszewski dtomaszewski2l@ucla.edu Bigender 8379.47
+95 Sharla Roseaman sroseaman2m@technorati.com Female 97115.26
+96 Melody O'Luney moluney2n@hugedomains.com Female 55726.98
+97 Cherilyn Duchenne cduchenne2o@bloomberg.com Female 81619.49
+98 Trude Clawsley tclawsley2p@unblog.fr Female 98644.39
+99 Bowie Massingberd bmassingberd2q@cbsnews.com Male 5558.59
+100 Bartolemo Drane bdrane2r@cnn.com Male 29785.84

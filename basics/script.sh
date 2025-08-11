@@ -82,22 +82,56 @@
 #echo "first argument is $1"
 #echo "second argument is $2"
 
-b=$(pwd)
-c=`pwd`
-echo $b
-echo $c
-d=$(ls -ltr /Users/amurikinati/* | grep pdf )
-echo $d
+#b=$(pwd)
+#c=`pwd`
+#echo $b
+#echo $c
+#d=$(ls -ltr /Users/amurikinati/* | grep pdf )
+#echo $d
 
 
+# exit codes
+#pwd
+# returns 0 if current command executes successfully
+#echo $?
+#pwds
+# return 1 to 155 if command is unsuccessful
+#echo $?
+
+echo $SHELL
+
+#This command will print the path to the shell executable. Another way is by using the ps command:
+
+ps -p $$
 
 
+#File Management -> cp, mv, rm, mkdir
+#Navigation -> cd, pwd, ls
+#Text Processing -> cat, grep, sort, head
+#System Monitoring -> top, ps, df
+#Permissions and Ownership -> chmod, chown, chgrp
+#Networking - > ping, wget, curl, ssh, scp, ftp
+#Compression and Archiving - > tar, gzip, gunzip, zip, unzip
+#Package Management - > dnf, yum, apt-get
+#Process Management -> kill, killall, bg, killall, kill
 
+#!/bin/bash
 
-
-
-
-
+#var1="Devil"
+#var2=23
+#echo $var1 $var2
+#
+#unset var1
+#
+#echo $var1 $var2
+#
+#
+#var1="Devil"
+#var2=23
+#readonly var1
+#echo $var1 $var2
+#var1=23
+#echo $var1 $var2
 
 
 
